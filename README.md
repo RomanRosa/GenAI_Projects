@@ -1,1 +1,1 @@
-# GenAI_Projects
+# Generative AI Portafolio
